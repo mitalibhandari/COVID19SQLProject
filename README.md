@@ -4,3 +4,4 @@ Extracted **CoronoVirus(COVID-19)** death data from [Worldindata](https://ourwor
 Imported the data in MYSQLWorkbench
 Wrote multiple queries to extract data
 Created view to store the data later for visulization(Tableu). 
+
